@@ -1,0 +1,2 @@
+# check_disabling_dependabot_security_updates
+Dependabotのsecurity updatesでnpmだけ無効にできるかの確認
