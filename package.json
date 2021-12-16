@@ -16,5 +16,6 @@
   "bugs": {
     "url": "https://github.com/kjirou/check_disabling_dependabot_security_updates/issues"
   },
-  "homepage": "https://github.com/kjirou/check_disabling_dependabot_security_updates#readme"
+  "homepage": "https://github.com/kjirou/check_disabling_dependabot_security_updates#readme",
+  "private": true
 }
