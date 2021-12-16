@@ -1,0 +1,20 @@
+{
+  "name": "check_disabling_dependabot_security_updates",
+  "version": "1.0.0",
+  "description": "Dependabotのsecurity updatesでnpmだけ無効にできるかの確認",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kjirou/check_disabling_dependabot_security_updates.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/kjirou/check_disabling_dependabot_security_updates/issues"
+  },
+  "homepage": "https://github.com/kjirou/check_disabling_dependabot_security_updates#readme"
+}
